@@ -1,4 +1,4 @@
-# Udacity Weather Journal App
+# Weather Journal App
 
 ## Table Of Contents
 -Project OverView

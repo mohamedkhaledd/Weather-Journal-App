@@ -1,0 +1,18 @@
+{
+  "name": "udactiy-weather-journal-app",
+  "version": "1.0.0",
+  "description": "## Table Of Contents -Project OverView -Project Instructions -Author -Tech Used",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
